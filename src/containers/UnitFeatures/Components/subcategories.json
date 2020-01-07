@@ -1,0 +1,378 @@
+[{
+  "id": 8,
+  "category_id": 6,
+  "name": {
+    "en": "AC and etc",
+    "fr": "AC and etc"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 5,
+  "category_id": 3,
+  "name": {
+    "en": "Access to skiing...",
+    "fr": "Acc\u00e8s pour le ski..."
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 22,
+  "category_id": 4,
+  "name": {
+    "en": "Access",
+    "fr": "Access"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 11,
+  "category_id": 4,
+  "name": {
+    "en": "BBQ",
+    "fr": "BBQ"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 0,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 21,
+  "category_id": 4,
+  "name": {
+    "en": "Balcony",
+    "fr": "Balcony"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 2,
+  "category_id": 3,
+  "name": {
+    "en": "Domain",
+    "fr": "Domaine"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:36",
+  "updated_at": "2019-12-16 20:47:36",
+  "enabled_feature": null
+}, {
+  "id": 23,
+  "category_id": 6,
+  "name": {
+    "en": "Entertainment",
+    "fr": "Divertissement"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 24,
+  "category_id": 5,
+  "name": {
+    "en": "Family amenities",
+    "fr": "\u00c9quipements pour les familles"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 13,
+  "category_id": 4,
+  "name": {
+    "en": "Fireplace",
+    "fr": "Fireplace"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 12,
+  "category_id": 4,
+  "name": {
+    "en": "Flooring",
+    "fr": "Flooring"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 1,
+  "category_id": 3,
+  "name": {
+    "en": "General location",
+    "fr": "Localisation g\u00e9n\u00e9rale"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:36",
+  "updated_at": "2019-12-16 20:47:36",
+  "enabled_feature": null
+}, {
+  "id": 3,
+  "category_id": 3,
+  "name": {
+    "en": "Getting around",
+    "fr": "Se d\u00e9placer"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:36",
+  "updated_at": "2019-12-16 20:47:36",
+  "enabled_feature": null
+}, {
+  "id": 14,
+  "category_id": 4,
+  "name": {
+    "en": "Heated Floors",
+    "fr": "Heated Floors"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 10,
+  "category_id": 4,
+  "name": {
+    "en": "Housekeeping",
+    "fr": "Housekeeping"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 7,
+  "category_id": 6,
+  "name": {
+    "en": "Internet",
+    "fr": "Internet"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 16,
+  "category_id": 4,
+  "name": {
+    "en": "Kitchen",
+    "fr": "Kitchen"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 25,
+  "category_id": 4,
+  "name": {
+    "en": "Other",
+    "fr": "Autre"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 26,
+  "category_id": 2,
+  "name": {
+    "en": "Other",
+    "fr": "Autre"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 27,
+  "category_id": 1,
+  "name": {
+    "en": "Other",
+    "fr": "Autre"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 28,
+  "category_id": 7,
+  "name": {
+    "en": "Other",
+    "fr": "Autre"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 29,
+  "category_id": 8,
+  "name": {
+    "en": "Other",
+    "fr": "Autre"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 19,
+  "category_id": 4,
+  "name": {
+    "en": "Other",
+    "fr": "Other"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 20,
+  "category_id": 4,
+  "name": {
+    "en": "Parking",
+    "fr": "Parking"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 18,
+  "category_id": 4,
+  "name": {
+    "en": "Pets",
+    "fr": "Pets"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 0,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 6,
+  "category_id": 6,
+  "name": {
+    "en": "Phone",
+    "fr": "Phone"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 17,
+  "category_id": 4,
+  "name": {
+    "en": "Ski Locker",
+    "fr": "Ski Locker"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 0,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 15,
+  "category_id": 4,
+  "name": {
+    "en": "Smoking",
+    "fr": "Smoking"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 0,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 9,
+  "category_id": 4,
+  "name": {
+    "en": "Starter Kit",
+    "fr": "Starter Kit"
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}, {
+  "id": 4,
+  "category_id": 3,
+  "name": {
+    "en": "Walking distances to...",
+    "fr": "Distance de marche..."
+  },
+  "active": 1,
+  "enabled": 1,
+  "multiselect": 1,
+  "created_at": "2019-12-16 20:47:37",
+  "updated_at": "2019-12-16 20:47:37",
+  "enabled_feature": null
+}]

@@ -14,20 +14,18 @@ require('@/common/_components.js')
 
 // if you want to add a new route just add it in a 'Routes' folder somewhere in the tree
 import routes from './_routes.js';
-console.log(routes);
 
 Vue.use(VueRouter);
 Vue.use(Vuetify)
 
 var router = new VueRouter({
-  mode: 'history',
-  base: '/components/'
+	mode: 'history',
+	base: '/components/'
 });
 router.addRoutes(routes);
-console.log(router)
 
 new Vue({
-  router: router,
-  store,
-  render: h => h(App)
+	router: router,
+	store,
+	render: h => h(App)
 }).$mount('#app')

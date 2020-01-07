@@ -1,5 +1,7 @@
 <template>
     <div style="position: relative;">
+        <v-btn depressed outline to="/"><v-icon left small>arrow_back</v-icon>Back</v-btn>
+        <h2 class="headline">Tape Chart</h2>
         <v-expansion-panel expand class="mb-2" v-model="panel">
            <v-expansion-panel-content>
                <div slot="header"><v-icon>filter_list</v-icon> Filters</div>
@@ -91,8 +93,8 @@
 
 <script>
     import moment from 'moment'
-    import Units from '@/containers/Routes/Components/Units'
-    import Chart from '@/containers/Routes/Components/Chart'
+    import Units from '@/containers/TapeChart/Components/Units'
+    import Chart from '@/containers/TapeChart/Components/Chart'
 
     export default {
         routes: [

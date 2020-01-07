@@ -1,0 +1,7124 @@
+[{
+    "id": 147,
+    "subcategory_id": 1,
+    "name": {
+      "en": " Barn and Horse Arena"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 148,
+    "subcategory_id": 1,
+    "name": {
+      "en": " Beach"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 173,
+    "subcategory_id": 20,
+    "name": {
+      "en": " Heated 5 Car Private Garage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 149,
+    "subcategory_id": 28,
+    "name": {
+      "en": " Private Swimming Pool"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 150,
+    "subcategory_id": 28,
+    "name": {
+      "en": " Private Tennis Court"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 255,
+    "subcategory_id": 16,
+    "name": {
+      "en": " Three Gourmet Kitchens"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 234,
+    "subcategory_id": 16,
+    "name": {
+      "en": " Wood Burning Pizza Oven"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 256,
+    "subcategory_id": 16,
+    "name": {
+      "en": "2 Kitchens"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 257,
+    "subcategory_id": 28,
+    "name": {
+      "en": "2 Washer \/ Dryers"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 193,
+    "subcategory_id": 19,
+    "name": {
+      "en": "24-Hour Front Desk"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 342,
+    "subcategory_id": 19,
+    "name": {
+      "en": "3 Private Suites"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 341,
+    "subcategory_id": 28,
+    "name": {
+      "en": "3 Washers\/Dryers"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 347,
+    "subcategory_id": 23,
+    "name": {
+      "en": "5 Sonos Touch Screen Music Panels"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 346,
+    "subcategory_id": 23,
+    "name": {
+      "en": "80 inch Flat Screen Television in Theatre Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 91,
+    "subcategory_id": 22,
+    "name": {
+      "en": "Access to unit - Disabled Friendly Access",
+      "fr": "Acc\u00e8s \u00e0 l'unit\u00e9 - aux personnes \u00e0 mobilit\u00e9 r\u00e9duite\n\t\t\t"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 92,
+    "subcategory_id": 22,
+    "name": {
+      "en": "Access to unit - with elevator",
+      "fr": "Acc\u00e8s \u00e0 l'unit\u00e9 - avec ascenseur"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 94,
+    "subcategory_id": 22,
+    "name": {
+      "en": "Access to unit - with less than 6 stairs",
+      "fr": "Acc\u00e8s \u00e0 l'unit\u00e9 - escalier moins de 6 marches\n\t\t\t"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 93,
+    "subcategory_id": 22,
+    "name": {
+      "en": "Access to unit - with no stairs",
+      "fr": "Acc\u00e8s \u00e0 l'unit\u00e9 - aucun escalier\n\t\t\t"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 95,
+    "subcategory_id": 22,
+    "name": {
+      "en": "Access to unit - with stairs",
+      "fr": "Acc\u00e8s \u00e0 l'unit\u00e9 - par escalier\n\t\t\t"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 10,
+    "subcategory_id": 10,
+    "name": {
+      "en": "Additional Housekeeping ($)",
+      "fr": "Services d'entretien additionnels ($)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 6,
+    "subcategory_id": 9,
+    "name": {
+      "en": "Additional Supplies ($)",
+      "fr": "Produits additionnels ($)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 19,
+    "subcategory_id": 8,
+    "name": {
+      "en": "Air exchanger",
+      "fr": "\u00c9changeur d'air"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 101,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Air hockey\/foosball\/ping pong",
+      "fr": "Table de \"air\" hockey \/ baby foot \/ ping pong"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 322,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Alarm Clock & Radio"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 1,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-17 20:59:14",
+    "enabled_feature": null
+  }, {
+    "id": 356,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Amazing Views"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 135,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Apple TV(s)",
+      "fr": "Apple TV(s)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 1,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-17 20:59:00",
+    "enabled_feature": null
+  }, {
+    "id": 24,
+    "subcategory_id": 1,
+    "name": {
+      "en": "At Mont-Blanc ski resort",
+      "fr": "Au centre de ski Mont-Blanc"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 23,
+    "subcategory_id": 1,
+    "name": {
+      "en": "At Tremblant Ski Resort",
+      "fr": "Au centre de ski Tremblant"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 59,
+    "subcategory_id": 11,
+    "name": {
+      "en": "BBQ (Summer only)",
+      "fr": "BBQ (\u00e9t\u00e9 seulement)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 60,
+    "subcategory_id": 11,
+    "name": {
+      "en": "BBQ (Year-round)",
+      "fr": "BBQ (toute l'ann\u00e9e)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 61,
+    "subcategory_id": 11,
+    "name": {
+      "en": "BBQ (none)",
+      "fr": "BBQ (aucun)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 360,
+    "subcategory_id": 11,
+    "name": {
+      "en": "BBQ Grill",
+      "fr": "BBQ Grill"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 109,
+    "subcategory_id": 29,
+    "name": {
+      "en": "BBQ in common area (Summer only)",
+      "fr": "BBQ aire commune (\u00e9t\u00e9 seulement)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 128,
+    "subcategory_id": 23,
+    "name": {
+      "en": "BOSE Bluethooth speaker(s)",
+      "fr": "Bose haut-parleur(s) Bluetooth"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 365,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Baby Bath",
+      "fr": "Baignoire pour b\u00e9b\u00e9s"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 343,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Baby Grand Piano"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 366,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Baby Monitor",
+      "fr": "Interphone b\u00e9b\u00e9"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 364,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Babysitter Recommendations",
+      "fr": "Recommandations pour les baby-sitters"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 348,
+    "subcategory_id": 21,
+    "name": {
+      "en": "Balconies"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 331,
+    "subcategory_id": 21,
+    "name": {
+      "en": "Balcony"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 330,
+    "subcategory_id": 12,
+    "name": {
+      "en": "Bamboo Flooring"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 151,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Barn"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 194,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Basketball Court"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 225,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Basketball Court"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 284,
+    "subcategory_id": 27,
+    "name": {
+      "en": "Bath + Shower",
+      "fr": "Bain + Douche"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 1,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-17 20:59:36",
+    "enabled_feature": null
+  }, {
+    "id": 1,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Bath towels",
+      "fr": "Serviettes de bain"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 2,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Bathrobes",
+      "fr": "Peignoirs"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 367,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Bathtub",
+      "fr": "Baignoire"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 368,
+    "subcategory_id": 1,
+    "name": {
+      "en": "Beachfront",
+      "fr": "Bord de mer"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 288,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Bike Storage",
+      "fr": "Bike Storage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 103,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Billiards table",
+      "fr": "Table de billard"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 339,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Blender"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 363,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Blender",
+      "fr": "Mixeur"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 277,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Blu-Ray",
+      "fr": "Blu-Ray"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 152,
+    "subcategory_id": 1,
+    "name": {
+      "en": "Boating"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 195,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Boot Warmers"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 127,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Bose Sound Dock(s)",
+      "fr": "Bose Sound Dock(s)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 369,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Breakfast Included",
+      "fr": "Petit d\u00e9jeuner"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 370,
+    "subcategory_id": 6,
+    "name": {
+      "en": "Buzzer\/wireless intercom",
+      "fr": "Interphone"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 29,
+    "subcategory_id": 2,
+    "name": {
+      "en": "C\u00f4t\u00e9 Nord (North side)",
+      "fr": "C\u00f4t\u00e9 Nord"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 141,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Cable\/Satellite",
+      "fr": "Cable\/Satellite"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 41,
+    "subcategory_id": 3,
+    "name": {
+      "en": "Car recommended",
+      "fr": "Voiture recommand\u00e9e"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 400,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Carbon Monoxide Detector",
+      "fr": "D\u00e9tecteur de monoxyde de carbone\n\t\t\t"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 21,
+    "subcategory_id": 8,
+    "name": {
+      "en": "Ceiling fan",
+      "fr": "Ventilateur au plafond"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 18,
+    "subcategory_id": 8,
+    "name": {
+      "en": "Central Air conditioning",
+      "fr": "Air climatis\u00e9 central"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 20,
+    "subcategory_id": 8,
+    "name": {
+      "en": "Centrally controlled heat",
+      "fr": "Chauffage central"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 371,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Changing Table",
+      "fr": "Table \u00e0 langer"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 372,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Children's Books and Toys",
+      "fr": "Livres et jouets pour enfants"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 373,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Children's Dinnerware",
+      "fr": "Vaisselle pour enfants"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 258,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Coffee Maker"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 220,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Common Area Hot Tub - Indoor"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 174,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Common Area Parking Garage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 302,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Community Pool",
+      "fr": "Piscine commune"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 169,
+    "subcategory_id": 3,
+    "name": {
+      "en": "Complimentary Shuttle"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 319,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Complimentary parking and valet service",
+      "fr": "Service de valet et navette sans frais"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 196,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Concierge Service"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 197,
+    "subcategory_id": 25,
+    "name": {
+      "en": "Corner Unit"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 358,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Courtyard View",
+      "fr": "Vue cour"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 175,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Covered Parking"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 374,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Crib",
+      "fr": "Lit pour b\u00e9b\u00e9s"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 283,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Crock-Pot",
+      "fr": "Mijoteuse"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 198,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Custom D\u00e9cor"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 129,
+    "subcategory_id": 23,
+    "name": {
+      "en": "DVD International",
+      "fr": "DVD International(s)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 240,
+    "subcategory_id": 23,
+    "name": {
+      "en": "DVD Movie Library"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 125,
+    "subcategory_id": 23,
+    "name": {
+      "en": "DVD(s)",
+      "fr": "DVD(s)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 8,
+    "subcategory_id": 10,
+    "name": {
+      "en": "Daily housekeeping included",
+      "fr": "M\u00e9nage quotidien inclus"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 246,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Dance Floor"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 333,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Deep Soakng Tub"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 353,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Deluxe Bathrooms"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 332,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Deluxe Bedding"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 176,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Designated Parking For One Vehicle"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 291,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Designated Parking For Two Vehicles",
+      "fr": "Parking d\u00e9sign\u00e9 pour deux v\u00e9hicules"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 199,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Designer D\u00e9cor"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 286,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Dishwasher",
+      "fr": "Lave-vaisselle"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 34,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Domaine For\u00eat (Slope)",
+      "fr": "Domaine For\u00eat (en montagne)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 274,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Domaine Le Ma\u00eetre (Golf)",
+      "fr": "Domaine Le Ma\u00eetre (Golf)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 35,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Domaine Nansen (Slope)",
+      "fr": "Domaine Nansen (en montagne)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 30,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Domaine de la B\u00eate (Golf)",
+      "fr": "Domaine de la B\u00eate (Golf)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 31,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Domaine du Diable (Golf)",
+      "fr": "Domaine du Diable (Golf)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 32,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Domaine du G\u00e9ant (Golf)",
+      "fr": "Domaine du G\u00e9ant (Golf)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 33,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Domaine du Village",
+      "fr": "Domaine du Village"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 375,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Doorman",
+      "fr": "Portier"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 376,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Essentials",
+      "fr": "Produits de base"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 377,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Event Friendly",
+      "fr": "Adapt\u00e9 aux \u00e9v\u00e9nements"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 247,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Exercise Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 121,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Expresso Machine",
+      "fr": "Machine \u00e0 expresso"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 187,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Exquisite Ski Resort Views"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 188,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Exquisite Views"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 378,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Family Friendly",
+      "fr": "Pour familles\/enfants"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 399,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Fire Extinguisher",
+      "fr": "Extincteur d'incendie\n\t\t\t"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 123,
+    "subcategory_id": 13,
+    "name": {
+      "en": "Fireplace - Ecologicial or real wood",
+      "fr": "B\u00fbches \u00e9cologiques ou bois"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 124,
+    "subcategory_id": 26,
+    "name": {
+      "en": "Fireplace - Ecologicial or real wood",
+      "fr": "B\u00fbches \u00e9cologiques ou bois"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 66,
+    "subcategory_id": 13,
+    "name": {
+      "en": "Fireplace - None",
+      "fr": "Foyer au bois"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 336,
+    "subcategory_id": 21,
+    "name": {
+      "en": "Fireplace Balcony"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 63,
+    "subcategory_id": 13,
+    "name": {
+      "en": "Fireplace Ecological logs",
+      "fr": "Foyer avec b\u00fbches \u00e9cologiques"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 62,
+    "subcategory_id": 13,
+    "name": {
+      "en": "Fireplace Electrical",
+      "fr": "Foyer \u00e9lectrique"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 64,
+    "subcategory_id": 13,
+    "name": {
+      "en": "Fireplace Gas",
+      "fr": "Foyer au gaz"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 379,
+    "subcategory_id": 13,
+    "name": {
+      "en": "Fireplace Guards",
+      "fr": "Protections devant la chemin\u00e9e"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 65,
+    "subcategory_id": 13,
+    "name": {
+      "en": "Fireplace Wood",
+      "fr": "Foyer au bois"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 308,
+    "subcategory_id": 13,
+    "name": {
+      "en": "Fireplace",
+      "fr": "Foyer"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 380,
+    "subcategory_id": 19,
+    "name": {
+      "en": "First Aid Kit",
+      "fr": "Trousse de premiers secours"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 226,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Fitness Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 345,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Flat Screen Television in each bedroom"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 323,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Flat Screen Televisions"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 334,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Flat Screen Televsion"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 138,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Flat screen TV(s) HD",
+      "fr": "TV(s) HD \u00e9cran plat"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 140,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Flat screen TV(s) video only",
+      "fr": "TV(s) \u00e9cran plat vid\u00e9o seulement"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 137,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Flat screen TV(s)",
+      "fr": "TV(s) \u00e9cran plat"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 67,
+    "subcategory_id": 12,
+    "name": {
+      "en": "Flooring in unit - Carpet",
+      "fr": "Couvre-sol dans l'unit\u00e9 - tapis"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 68,
+    "subcategory_id": 12,
+    "name": {
+      "en": "Flooring in unit - Tile",
+      "fr": "Couvre-sol dans l'unit\u00e9 - carrelage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 69,
+    "subcategory_id": 12,
+    "name": {
+      "en": "Flooring in unit - Wood",
+      "fr": "Couvre-sol dans l'unit\u00e9 - plancher de bois"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 146,
+    "subcategory_id": 12,
+    "name": {
+      "en": "Flooring in unit: carpet\/tile\/wood ",
+      "fr": "Couvre-sol dans l'unit\u00e9 - tapis\/carrelage\/plancher de bois"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 279,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Fondue set",
+      "fr": "Appareil \u00e0 fondue"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 248,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Foosball Table"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 102,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Foosball",
+      "fr": "Baby foot"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 289,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Forest View (Back Side Of Building)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 7,
+    "subcategory_id": 10,
+    "name": {
+      "en": "Free End of Stay Clean",
+      "fr": "M\u00e9nage de fin de s\u00e9jour inclus"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 200,
+    "subcategory_id": 6,
+    "name": {
+      "en": "Free Long Distance Calling"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 177,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Free Parking"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 43,
+    "subcategory_id": 3,
+    "name": {
+      "en": "Free hotel shuttle",
+      "fr": "Navette de l'h\u00f4tel gratuite"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 9,
+    "subcategory_id": 10,
+    "name": {
+      "en": "Free mid-stay clean included for 8+ days",
+      "fr": "M\u00e9nage mi-s\u00e9jour inclus pour 8 jours et +"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 136,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Free movies (Netflix)",
+      "fr": "Films gratuits (Netflix)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 42,
+    "subcategory_id": 3,
+    "name": {
+      "en": "Free resort shuttle",
+      "fr": "Navette du resort gratuite"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 104,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Free video games",
+      "fr": "Jeux vid\u00e9os gratuits"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 401,
+    "subcategory_id": 27,
+    "name": {
+      "en": "Freestanding Bathtub",
+      "fr": "Bain autoportant"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 321,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Full Kitchen"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 296,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Full Size Refigerator",
+      "fr": "R\u00e9frig\u00e9rateur"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 227,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Game Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 90,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Garage Clearance",
+      "fr": "Hauteur du garage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 303,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Garage",
+      "fr": "Garage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 357,
+    "subcategory_id": 11,
+    "name": {
+      "en": "Gas Grill"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 337,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Gas Stove"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 189,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Golf Course Views"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 260,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Gourmet Kitchen"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 36,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Grande For\u00eat",
+      "fr": "Grande For\u00eat"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 261,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Granite Countertops"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 178,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Guest Parking"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 110,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Gym in common area",
+      "fr": "Salle d'exercice dans les aires communes"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 404,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Hair Dryer",
+      "fr": "S\u00e9choir \u00e0 cheveux"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:42",
+    "updated_at": "2019-12-16 20:47:42",
+    "enabled_feature": null
+  }, {
+    "id": 4,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Hairdryer in each bathroom",
+      "fr": "S\u00e9choir \u00e0 cheveux dans chaque salle de bains"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 201,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Hand Crafted Furniture"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 381,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Hangers",
+      "fr": "Cintres"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 179,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Heated Driveway"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 70,
+    "subcategory_id": 14,
+    "name": {
+      "en": "Heated Floors - All floors",
+      "fr": "Plancher chauffant - partout"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 71,
+    "subcategory_id": 14,
+    "name": {
+      "en": "Heated Floors - kitchen",
+      "fr": "Plancher chauffant - cuisine"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 359,
+    "subcategory_id": 14,
+    "name": {
+      "en": "Heated Floors",
+      "fr": "Plancher chauffant"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 309,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Heated Pool",
+      "fr": "Piscine chaufee"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 385,
+    "subcategory_id": 24,
+    "name": {
+      "en": "High Chair",
+      "fr": "Chaise haute"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 16,
+    "subcategory_id": 7,
+    "name": {
+      "en": "High Speed Internet",
+      "fr": "Internet haute-vitesse"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 340,
+    "subcategory_id": 19,
+    "name": {
+      "en": "His & Her Bathroom"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 241,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Home Computer"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 106,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Home Theatre",
+      "fr": "Cin\u00e9ma maison"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 98,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Hot Tub Summer (Private)",
+      "fr": "Bain tourbillon priv\u00e9  (\u00e9t\u00e9 seulement)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 111,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Hot Tub in common area (Summer only)",
+      "fr": "Bain tourbillon commun (\u00e9t\u00e9 seulement)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 112,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Hot Tub in common area (Year-round)",
+      "fr": "Bain tourbillon commun (toute l'ann\u00e9e)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 300,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Hot Tub in common area",
+      "fr": "Bain tourbillon commun"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 297,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Hot plate",
+      "fr": "Plat chaud"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 22,
+    "subcategory_id": 8,
+    "name": {
+      "en": "Humidifier",
+      "fr": "Humidificateur"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 130,
+    "subcategory_id": 23,
+    "name": {
+      "en": "IPOD Docking station",
+      "fr": "IPOD Docking station(s)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 154,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Ice Skating Pond On Property"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 280,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Ice skating Pond\n\t\t\t",
+      "fr": "Patinoire"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 294,
+    "subcategory_id": 19,
+    "name": {
+      "en": "In suite safe",
+      "fr": "En toute s\u00e9curit\u00e9 suite"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 170,
+    "subcategory_id": 3,
+    "name": {
+      "en": "In-House Shuttle Service"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 114,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Indoor pool (Year-round)",
+      "fr": "Piscine int\u00e9rieure commune (\u00e0 l'ann\u00e9e)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 12,
+    "subcategory_id": 7,
+    "name": {
+      "en": "Internet",
+      "fr": "Internet"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 326,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Iron\/Ironing Board"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 271,
+    "subcategory_id": 27,
+    "name": {
+      "en": "Jacuzzi Tub"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 386,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Jacuzzi",
+      "fr": "Jacuzzi"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 285,
+    "subcategory_id": 27,
+    "name": {
+      "en": "Jet Bath + Shower",
+      "fr": "Bain \u00e0 jet + Douche"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 118,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Keurig coffee machine (K-cups included)",
+      "fr": "Machine \u00e0 caf\u00e9 Keurig (K-cups inclus)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 117,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Keurig coffee machine (K-cups not included)",
+      "fr": "Machine \u00e0 caf\u00e9 Keurig (K-cups non inclus)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 74,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Kitchen - Full",
+      "fr": "Cuisine - \u00e9quip\u00e9e"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 75,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Kitchen - kitchenette",
+      "fr": "Cuisine - kitchenette"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 76,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Kitchen - none",
+      "fr": "Cuisine - aucune"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 310,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Kitchen",
+      "fr": "Cuisine"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 387,
+    "subcategory_id": 1,
+    "name": {
+      "en": "Lake Access",
+      "fr": "Acc\u00e8s au lac"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 37,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Lake Beauvallon",
+      "fr": "Lac Beauvallon"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 388,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Laptop Friendly",
+      "fr": "Espace de travail pour ordinateur portable"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 352,
+    "subcategory_id": 21,
+    "name": {
+      "en": "Large Balcony Deck"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 298,
+    "subcategory_id": 25,
+    "name": {
+      "en": "Large Layout",
+      "fr": "Grande disposition"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 242,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Large Screen TV"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 259,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Laundry Facility"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 329,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Living Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 171,
+    "subcategory_id": 3,
+    "name": {
+      "en": "Located on Free Shuttle Route"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 155,
+    "subcategory_id": 1,
+    "name": {
+      "en": "Located on Golf Course"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 156,
+    "subcategory_id": 1,
+    "name": {
+      "en": "Located on Park City Main Street"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 262,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Marble Countertops"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 249,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Media Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 232,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Meeting Facilities"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 287,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Microwave",
+      "fr": "Micro onde"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 263,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Mini Fridge"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 186,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Mountain Views"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 202,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Mud Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 235,
+    "subcategory_id": 13,
+    "name": {
+      "en": "Multiple Fireplaces"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 236,
+    "subcategory_id": 13,
+    "name": {
+      "en": "Multiple Gas Fireplaces"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 203,
+    "subcategory_id": 21,
+    "name": {
+      "en": "Multiple Private Balconies"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 204,
+    "subcategory_id": 21,
+    "name": {
+      "en": "Multiple Private Decks"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 237,
+    "subcategory_id": 13,
+    "name": {
+      "en": "Multiple Wood Burning Fireplaces"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 25,
+    "subcategory_id": 1,
+    "name": {
+      "en": "Near golf course",
+      "fr": "Proche d'un terrain de golf"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 120,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Nespresso coffe machine (Capsules included)",
+      "fr": "Machine \u00e0 caf\u00e9 Nespresso (capsules inclus)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 119,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Nespresso coffe machine (Capsules not included)",
+      "fr": "Machine \u00e0 caf\u00e9 Nespresso (capsules non inclus)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 264,
+    "subcategory_id": 16,
+    "name": {
+      "en": "New Appliances"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 205,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Newly Constructed"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 206,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Newly Remodeled"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 299,
+    "subcategory_id": 25,
+    "name": {
+      "en": "Newly Remodeled",
+      "fr": "Nouvellement r\u00e9nov\u00e9"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 405,
+    "subcategory_id": 8,
+    "name": {
+      "en": "No AC",
+      "fr": "Sans air climatis\u00e9"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:42",
+    "updated_at": "2019-12-16 20:47:42",
+    "enabled_feature": null
+  }, {
+    "id": 14,
+    "subcategory_id": 7,
+    "name": {
+      "en": "No WIFI",
+      "fr": "Aucun WIFI"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 15,
+    "subcategory_id": 7,
+    "name": {
+      "en": "No internet",
+      "fr": "Aucun internet"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 11,
+    "subcategory_id": 6,
+    "name": {
+      "en": "No phone",
+      "fr": "Aucun t\u00e9l\u00e9phone"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 73,
+    "subcategory_id": 15,
+    "name": {
+      "en": "Non-Smoking Unit",
+      "fr": "Non fumeur"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 87,
+    "subcategory_id": 25,
+    "name": {
+      "en": "Number of floors in unit ",
+      "fr": "Nombre d'\u00e9tages dans l'unit\u00e9"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 305,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Number of parking spaces",
+      "fr": "Nombre d'emplacements de parking"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 180,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Off Street Parking"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 26,
+    "subcategory_id": 1,
+    "name": {
+      "en": "On the mountain",
+      "fr": "Sur la montagne"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 327,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Open Ceiling"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 355,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Open Floor Plan"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 238,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Outdoor Fireplace"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 113,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Outdoor Pool (Summer only)",
+      "fr": "Piscine commune (\u00e9t\u00e9 seulement)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 275,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Outdoor pool (Year-round)",
+      "fr": "Piscine commune (\u00e0 l'ann\u00e9e)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 389,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Outlet Covers",
+      "fr": "Caches-prises"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 311,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Oven",
+      "fr": "Four"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 382,
+    "subcategory_id": 18,
+    "name": {
+      "en": "Owner has a cat",
+      "fr": "Le propri\u00e9taire a un chat"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 383,
+    "subcategory_id": 18,
+    "name": {
+      "en": "Owner has a dog",
+      "fr": "Le propri\u00e9taire a un chien"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 384,
+    "subcategory_id": 18,
+    "name": {
+      "en": "Owner has other pet",
+      "fr": "Le propri\u00e9taire a d'autres animaux"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 390,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Pack 'n Play\/travel crib",
+      "fr": "Lit de voyage pour b\u00e9b\u00e9s"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 293,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Paid parking",
+      "fr": "Parking payant"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 143,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Panoramic View",
+      "fr": "Vue panoramique"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 312,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Pantry Items",
+      "fr": "Articles de cuisine"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 88,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Parking - Exterior",
+      "fr": "Parking - ext\u00e9rieur"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 89,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Parking - Interior",
+      "fr": "Parking - int\u00e9rieur"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 116,
+    "subcategory_id": 8,
+    "name": {
+      "en": "Partial Air Conditioning",
+      "fr": "Air climatis\u00e9 partiel"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 207,
+    "subcategory_id": 21,
+    "name": {
+      "en": "Patio Terrace"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 85,
+    "subcategory_id": 21,
+    "name": {
+      "en": "Patio\/Balcony ",
+      "fr": "Patio\/Balcon"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 107,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Pay Movies",
+      "fr": "Films sur demande ($)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 361,
+    "subcategory_id": 7,
+    "name": {
+      "en": "Pay per use Internet Access",
+      "fr": "Acc\u00e8s Internet payant"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 318,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Personal Audio docking system",
+      "fr": "Station pour lecteur de musique portable"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 83,
+    "subcategory_id": 18,
+    "name": {
+      "en": "Pets - Not allowed",
+      "fr": "Animaux - non admis"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 82,
+    "subcategory_id": 18,
+    "name": {
+      "en": "Pets - allowed with a fee",
+      "fr": "Animaux - admis $"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 81,
+    "subcategory_id": 18,
+    "name": {
+      "en": "Pets - owner owns pet",
+      "fr": "Animaux - le propri\u00e9taire a des animaux"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 57,
+    "subcategory_id": 6,
+    "name": {
+      "en": "Phone Free Calls - CA\/US",
+      "fr": "Appels CA\/US gratuits"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 58,
+    "subcategory_id": 6,
+    "name": {
+      "en": "Phone Free Calls - International",
+      "fr": "Appels internationaux gratuits"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 56,
+    "subcategory_id": 6,
+    "name": {
+      "en": "Phone Free Calls - Local",
+      "fr": "Appels locaux gratuits"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 142,
+    "subcategory_id": 6,
+    "name": {
+      "en": "Phone Free Calls \u2013 Local, CA\/US and International",
+      "fr": "Appels gratuits \u2013 Local, CA\/US et international"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 250,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Piano"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 251,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Ping Pong Table"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 38,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Pinoteau",
+      "fr": "Pinoteau"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 153,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Playground"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 245,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Playstation 4"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 105,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Playstation",
+      "fr": "Playstation"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 228,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Pool - Indoor \/ Outdoor"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 402,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Pool View",
+      "fr": "Vue de la piscine"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:42",
+    "updated_at": "2019-12-16 20:47:42",
+    "enabled_feature": null
+  }, {
+    "id": 278,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Pool table",
+      "fr": "Table de billard"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 3,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Pool towels at pool",
+      "fr": "Serviettes disponibles \u00e0 la piscine"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 17,
+    "subcategory_id": 8,
+    "name": {
+      "en": "Portable fan",
+      "fr": "Ventilateur portatif"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 181,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Private 1-Car Garage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 182,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Private 2-Car Garage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 183,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Private 3-Car Garage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 184,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Private 4 Car Garage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 208,
+    "subcategory_id": 21,
+    "name": {
+      "en": "Private Balcony"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 209,
+    "subcategory_id": 21,
+    "name": {
+      "en": "Private Deck"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 210,
+    "subcategory_id": 22,
+    "name": {
+      "en": "Private Elevator"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 222,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Private Hot Tub - Indoor"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 223,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Private Hot Tub - Outdoor"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 221,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Private Hot Tub"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 96,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Private Outdoor Hot Tub All Year",
+      "fr": "Bain tourbillon priv\u00e9 (\u00e0 l'ann\u00e9e)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 224,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Private Outdoor Hot Tub- Winter Only"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 211,
+    "subcategory_id": 21,
+    "name": {
+      "en": "Private Patio"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 252,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Private Plunge Pool"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 100,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Private Sauna",
+      "fr": "Sauna priv\u00e9"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 253,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Private Steam Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 349,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Private Street Access"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 350,
+    "subcategory_id": 21,
+    "name": {
+      "en": "Private Terrace with Hot Tub"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 99,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Private fire pit",
+      "fr": "Foyer ext\u00e9rieur priv\u00e9"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 97,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Private pool Summer",
+      "fr": "Piscine priv\u00e9e (\u00e9t\u00e9 seulement)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 281,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Projection screen",
+      "fr": "\u00c9cran de projecteur"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 108,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Projection screen",
+      "fr": "\u00c9cran de projection"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 39,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Rabaska",
+      "fr": "Rabaska"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 282,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Raclette set",
+      "fr": "Appareil \u00e0 raclette"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 212,
+    "subcategory_id": 9,
+    "name": {
+      "en": "Radiant Heat"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 313,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Rec Center",
+      "fr": "Centre de loisirs"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 229,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Rec Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 254,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Rec Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 335,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Refreshment Honor Bar"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 314,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Refrigerator",
+      "fr": "R\u00e9frig\u00e9rateur"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 139,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Regular TV(s)",
+      "fr": "TV(s) r\u00e9guli\u00e8re(s)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 233,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Restaurant On-Site"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 28,
+    "subcategory_id": 1,
+    "name": {
+      "en": "Riverfront",
+      "fr": "Au bord de la rivi\u00e8re"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 391,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Room Darkening Shades",
+      "fr": "Stores"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 392,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Safety Card",
+      "fr": "Carte de s\u00e9curit\u00e9"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 230,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Sauna"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 328,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Separate Bedroom"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 393,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Shampoo",
+      "fr": "Shampooing"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 172,
+    "subcategory_id": 4,
+    "name": {
+      "en": "Short Walk to Free Shuttle"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 301,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Ski Access Nearby",
+      "fr": "Proche"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 190,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Ski Resort Views"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 213,
+    "subcategory_id": 17,
+    "name": {
+      "en": "Ski Storage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 214,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Ski Valet"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 51,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Ski access by car to Mont-Blanc ski resort ",
+      "fr": "Acc\u00e8s en voiture \u00e0 Mont-Blanc "
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 50,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Ski access to Resort",
+      "fr": "Acc\u00e8s \u00e0 la station de ski"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 55,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Ski access walk to Mont-Blanc trails",
+      "fr": "Acc\u00e9s aux pistes de Mont-Blanc en marchant "
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 54,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Ski access walk to trail ",
+      "fr": "Acc\u00e8s aux pistes en marchant "
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 52,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Ski access with hotel shuttle ",
+      "fr": "Acc\u00e8s aux pistes avec la navette de l'h\u00f4tel "
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 53,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Ski access with resort shuttle ",
+      "fr": "Acc\u00e8s aux pistes avec la navette du resort"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 79,
+    "subcategory_id": 17,
+    "name": {
+      "en": "Ski locker - at door step",
+      "fr": "Casier \u00e0 ski - \u00e0 la porte"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 77,
+    "subcategory_id": 17,
+    "name": {
+      "en": "Ski locker - common area",
+      "fr": "Casier \u00e0 ski - commun"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 80,
+    "subcategory_id": 17,
+    "name": {
+      "en": "Ski locker - in garage",
+      "fr": "Casier \u00e0 ski - dans le garage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 78,
+    "subcategory_id": 17,
+    "name": {
+      "en": "Ski locker - none",
+      "fr": "Casier \u00e0 ski - aucun"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 362,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Ski-In to complex\/Free shuttle to lifts",
+      "fr": "Ski-dans le complexe \/ Navette gratuite pour les ascenseurs"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 49,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Ski-in ski-out",
+      "fr": "Ski-in ski-out"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 292,
+    "subcategory_id": 1,
+    "name": {
+      "en": "Ski-in to complex",
+      "fr": "Ski-in au complexe"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 215,
+    "subcategory_id": 12,
+    "name": {
+      "en": "Slate Floors"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 157,
+    "subcategory_id": 1,
+    "name": {
+      "en": "Slopeside"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 144,
+    "subcategory_id": 26,
+    "name": {
+      "en": "Smart TV",
+      "fr": "Smart TV"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 145,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Smart TV",
+      "fr": "Smart TV"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 394,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Smoke Detector",
+      "fr": "D\u00e9tecteur de fum\u00e9e"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 72,
+    "subcategory_id": 15,
+    "name": {
+      "en": "Smoking - allowed",
+      "fr": "Fumeurs - autoris\u00e9s"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 115,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Spa Center (Whirlpool, Steam Room & Sauna)",
+      "fr": "Centre spa (bain tourbillon, hammam, sauna)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 351,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Spacious Dining Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 354,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Spacious Floor Plan"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 191,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Specatcular Lake Views"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 84,
+    "subcategory_id": 25,
+    "name": {
+      "en": "Square footage",
+      "fr": "Superficie"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 265,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Stainless Steel Appliances"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 395,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Stair Gates",
+      "fr": "Barri\u00e8res de s\u00e9curit\u00e9 pour escaliers"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 5,
+    "subcategory_id": 9,
+    "name": {
+      "en": "Starter Kit Free (includes \u2026 text to be confirmed)",
+      "fr": "Kit d'arriv\u00e9e incluant xxxx"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 272,
+    "subcategory_id": 27,
+    "name": {
+      "en": "Steam Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 231,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Steam Room"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:39",
+    "updated_at": "2019-12-16 20:47:39",
+    "enabled_feature": null
+  }, {
+    "id": 132,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Stereo CD(s)",
+      "fr": "St\u00e9r\u00e9o CD(s)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 133,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Stereo Ipod(s) compatible",
+      "fr": "St\u00e9r\u00e9o Ipod(s) compatible"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 131,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Stereo Radio(s)",
+      "fr": "St\u00e9r\u00e9o Radio(s)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 134,
+    "subcategory_id": 23,
+    "name": {
+      "en": "Stereo surrond sound",
+      "fr": "St\u00e9r\u00e9o surrond sound"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 403,
+    "subcategory_id": 26,
+    "name": {
+      "en": "Streaming WiFi built-in DVD Player",
+      "fr": "Lecteur DVD int\u00e9gr\u00e9 en streaming"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:42",
+    "updated_at": "2019-12-16 20:47:42",
+    "enabled_feature": null
+  }, {
+    "id": 307,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Street View",
+      "fr": "Vue de la rue"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 266,
+    "subcategory_id": 16,
+    "name": {
+      "en": "SubZero Appliances"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 316,
+    "subcategory_id": 23,
+    "name": {
+      "en": "TV(s)",
+      "fr": "TV(s)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 396,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Table Corner Guards",
+      "fr": "Protections sur les coins de tables"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 315,
+    "subcategory_id": 6,
+    "name": {
+      "en": "Telephone",
+      "fr": "T\u00e9l\u00e9phone"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 158,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Tennis Courts"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 273,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Tennis court (Summer only)",
+      "fr": "Terrain de Tennis (\u00c9t\u00e9 seulement)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 267,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Thermador Appliances"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 325,
+    "subcategory_id": 19,
+    "name": {
+      "en": "Tiled Shower"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 317,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Toaster",
+      "fr": "Grille pain\n\t\t\t"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 159,
+    "subcategory_id": 29,
+    "name": {
+      "en": "Trout Fishing Pond ( Summer Only)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 304,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Uncovered Parking",
+      "fr": "Parking d\u00e9couvert"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 185,
+    "subcategory_id": 20,
+    "name": {
+      "en": "Underground Parking"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 86,
+    "subcategory_id": 25,
+    "name": {
+      "en": "Unit is on floor",
+      "fr": "L'unit\u00e9 est \u00e0 l'\u00e9tage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 126,
+    "subcategory_id": 23,
+    "name": {
+      "en": "VCR(s)",
+      "fr": "VCR(s)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 290,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Valley View (Front Side Of Building)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 306,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Valley View",
+      "fr": "Vue sur la vall\u00e9e"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 216,
+    "subcategory_id": 25,
+    "name": {
+      "en": "Vaulted Ceilings"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 40,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Versant Soleil (Casino)",
+      "fr": "Versant Soleil (Casino)"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 192,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Views of Park City Main Street"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 268,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Viking Appliances"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 276,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Village Pi\u00e9tonnier",
+      "fr": "Village Pi\u00e9tonnier"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 324,
+    "subcategory_id": 19,
+    "name": {
+      "en": "WBC Robes"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 13,
+    "subcategory_id": 7,
+    "name": {
+      "en": "WIFI",
+      "fr": "WIFI"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 44,
+    "subcategory_id": 4,
+    "name": {
+      "en": "Walk to Beach",
+      "fr": "Marche jusqu'\u00e0 la plage"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 160,
+    "subcategory_id": 4,
+    "name": {
+      "en": "Walk to Park City Main Street"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 161,
+    "subcategory_id": 4,
+    "name": {
+      "en": "Walk to Park City Mountain Resort"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 162,
+    "subcategory_id": 4,
+    "name": {
+      "en": "Walk to Redstone Village"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 163,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Walk to Ski Lifts"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 164,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Walk to Ski Run"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 165,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Walk to Trail"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 45,
+    "subcategory_id": 4,
+    "name": {
+      "en": "Walk to common area Pool ",
+      "fr": "Marche jusqu'\u00e0 la piscine commune "
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 46,
+    "subcategory_id": 4,
+    "name": {
+      "en": "Walk to common area hot tub  ",
+      "fr": "Marche jusqu'au bain tourbillon commun "
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 47,
+    "subcategory_id": 4,
+    "name": {
+      "en": "Walk to resort shuttle ",
+      "fr": "Marche jusqu'\u00e0 l'arr\u00eat de la navette"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 48,
+    "subcategory_id": 4,
+    "name": {
+      "en": "Walk to resort village",
+      "fr": "Marche jusqu'au village pi\u00e9tonnier"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 166,
+    "subcategory_id": 5,
+    "name": {
+      "en": "Walk-In \/ Ski-Out"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 269,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Washer \/ Dryer"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 344,
+    "subcategory_id": 28,
+    "name": {
+      "en": "Washers \/ Dryers in each suite"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 167,
+    "subcategory_id": 1,
+    "name": {
+      "en": "Waterfall"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 27,
+    "subcategory_id": 1,
+    "name": {
+      "en": "Waterfront",
+      "fr": "Sur le bord de l'eau"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:37",
+    "updated_at": "2019-12-16 20:47:37",
+    "enabled_feature": null
+  }, {
+    "id": 168,
+    "subcategory_id": 1,
+    "name": {
+      "en": "Waterskiing"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 217,
+    "subcategory_id": 25,
+    "name": {
+      "en": "Wet Bar"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 397,
+    "subcategory_id": 22,
+    "name": {
+      "en": "Wheelchair Accessible",
+      "fr": "Accessible aux personnes \u00e0 mobilit\u00e9 r\u00e9duite"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 295,
+    "subcategory_id": 2,
+    "name": {
+      "en": "Whistler Village view"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 398,
+    "subcategory_id": 24,
+    "name": {
+      "en": "Windows Guards",
+      "fr": "Protections sur les fen\u00eatres"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 218,
+    "subcategory_id": 25,
+    "name": {
+      "en": "Wine Cellar"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 338,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Wine Chiller"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 219,
+    "subcategory_id": 25,
+    "name": {
+      "en": "Wine Cooler"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 122,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Wine fridge",
+      "fr": "Cellier \u00e0 vin"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:38",
+    "updated_at": "2019-12-16 20:47:38",
+    "enabled_feature": null
+  }, {
+    "id": 320,
+    "subcategory_id": 7,
+    "name": {
+      "en": "Wireless Internet"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 1,
+    "is_unit_pref": 1,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:41",
+    "updated_at": "2019-12-16 20:47:41",
+    "enabled_feature": null
+  }, {
+    "id": 270,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Wolf Appliances"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 239,
+    "subcategory_id": 16,
+    "name": {
+      "en": "Wood Burning Stove"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 243,
+    "subcategory_id": 23,
+    "name": {
+      "en": "XBOX 360"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }, {
+    "id": 244,
+    "subcategory_id": 23,
+    "name": {
+      "en": "XBOX One"
+    },
+    "active": 1,
+    "enabled": 1,
+    "customizable": 1,
+    "is_room_feature": 0,
+    "is_complex_feature": 0,
+    "is_guest_pref": 0,
+    "is_unit_pref": 0,
+    "always_included": 0,
+    "created_at": "2019-12-16 20:47:40",
+    "updated_at": "2019-12-16 20:47:40",
+    "enabled_feature": null
+  }]
