@@ -175,7 +175,44 @@ export default {
             saving: false,
             loading: false,
             image: '',
-            items: [],
+            items: [
+                {
+                    url: 'http://careyartistry.com/links/michelin/images/shared/section1/intro.jpg',
+                    filename: "",
+                    id: '_' + Math.random().toString(36).substr(2, 9),
+                    pivot: {
+                        active: 1,
+                        filename: {
+                            en: "",
+                            fr: ""
+                        },
+                        tags: [],
+                        caption: {
+                            en: "",
+                            fr: ""
+                        },
+                        order_column: 1
+                    }
+                },
+                {
+                    url: 'http://careyartistry.com/links/michelin/images/shared/section2/section2.jpg',
+                    filename: "",
+                    id: '_' + Math.random().toString(36).substr(2, 9),
+                    pivot: {
+                        active: 1,
+                        filename: {
+                            en: "",
+                            fr: ""
+                        },
+                        tags: [],
+                        caption: {
+                            en: "",
+                            fr: ""
+                        },
+                        order_column: 2
+                    }
+                }
+            ],
             files: null,
             originalItems: null,
             model: {
@@ -329,9 +366,10 @@ export default {
             this.delete_dialog = false
             this.saving = true
             setTimeout(() => {
-                const photo = this.items.filter(photo => photo.id == item.id)
-                const index = this.items.indexOf(photo)
-                this.items.splice(index, 1, item)
+                this.items.filter((photo, index) => {
+                    if(photo.id == item.id)
+                        this.items.splice(index, 1, item)
+                })
                 this.saving = false
             }, 2000)
         }
